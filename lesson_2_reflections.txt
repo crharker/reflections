@@ -13,6 +13,10 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  While working on code, often I am going in and updating it adding new features.
+  This will allow me to work on a feature and if a bug or quick update is needed
+  prior to having the new feature completed, I can easily update the code to 
+  reflect that.
 
 How do the diagrams help you visualize the branch structure?
 
