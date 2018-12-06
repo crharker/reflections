@@ -32,4 +32,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When working on new features so it doesn't impact the production master branch
+    This allows you to work on adding new features which doesn't imapct the master
+    branch until you are ready. Meanwhile bugs and stuff can be updated in the master
+    branch
